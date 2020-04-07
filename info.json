@@ -1,22 +1,17 @@
 {
-  "name": "Hammad Malik",
-  "website": "https://tomatohammado.github.io/",
+  "name": "Scott Kutler",
+  "website": "https://www.broapp.com",
   "linkedin": "https://www.linkedin.com/in/tomatohammado/",
-  "github": "tomatohammado",
-  "email": "hammad.malik@generalassemb.ly",
-  "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+  "github": "skut21x-ga",
+  "email": "scott.kutler@gmail.com",
+  "resume": "https://github.com/skut21x-ga/npm-resume/raw/master/Kutler-Resume.pdf",
   "proficientTechnologies": [
     "Javascript",
     "React",
-    "Vue",
     "Node",
-    "Express",
-    "Mongodb",
-    "PostgreSQL",
-    "Python",
-    "Django",
-    "Wordpress",
-    "Drupal"
+    "HTML",
+    "CSS",
+    "AWS"
   ],
-  "otherSkills": ["Unagi", "Five Finger Fillet", "Bridge"]
+  "otherSkills": ["Community Service"]
 }
