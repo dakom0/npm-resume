@@ -1,0 +1,26 @@
+{
+  "name": "npm-resume",
+  "version": "1.0.0",
+  "description": "scott kutler's npm resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skut21x-ga/npm-resume.git"
+  },
+  "keywords": [
+    "resume",
+    "npm"
+  ],
+  "author": "Scott Kutler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skut21x-ga/npm-resume/issues"
+  },
+  "homepage": "https://github.com/skut21x-ga/npm-resume#readme",
+  "bin": {
+    "your-command-here": "./index.js"
+  }
+}
