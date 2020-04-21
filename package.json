@@ -1,5 +1,5 @@
 {
-  "name": "npm-resume",
+  "name": "scott-kutler-resume",
   "version": "1.0.0",
   "description": "scott kutler's npm resume",
   "main": "index.js",
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/skut21x-ga/npm-resume#readme",
   "bin": {
-    "your-command-here": "./index.js"
+    "your-command-here": "index.js"
   }
 }
