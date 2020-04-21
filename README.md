@@ -12,4 +12,4 @@ This is an NPM based resume for Scott Kutler - dated 4/7/2020 - that utilizes no
 4. This will print my resume to the terminal and it also includes a link to a PDF version of the resume in it.
 
 ##### This NPM library is available at https://www.npmjs.com/package/scott-kutler-resume
-##### This repo is avialable at https://github.com/skut21x-ga/npm-resume
+##### This repo is available at https://github.com/skut21x-ga/npm-resume
