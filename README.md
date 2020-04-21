@@ -10,3 +10,5 @@ This is an NPM based resume for Scott Kutler - dated 4/7/2020 - that utilizes no
 2. CD into the cloned directory.
 3. Input "node index.js" in the folder's root directory.
 4. This will print my resume to the terminal and it also includes a link to a PDF version of the resume in it.
+
+##### This NPM library is available at https://www.npmjs.com/package/scott-kutler-resume
